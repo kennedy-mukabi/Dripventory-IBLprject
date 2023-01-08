@@ -1,7 +1,5 @@
 # Dripventory Business Records Management System
 
-![Thumbnail](https://github.com/kennedy-mukabi/Dripventory-IBLproject/blob/main/Thumbnails/Thumbnail.png)
-
 Dripventory is a Fashion and Apparels Outlet that carries out its operations within Nairobi. <br />
 We Intend to automate the manual process of record keeping and tracking of deliveries by coming up with a digital solution for the business
 
